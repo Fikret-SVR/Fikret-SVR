@@ -20,8 +20,6 @@
 - Perl (text processing, legacy systems)
 - Bash scripting
 
-## 🚀 Öne Çıkan Projelerim
-
 ### [🔐 Custom POS System]
 _Gerçek iş yeri ihtiyaçları için geliştirdiğim point of sale sistemi_
 - Özellikler: Inventory management, sales reporting, user roles
