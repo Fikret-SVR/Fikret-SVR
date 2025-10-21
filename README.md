@@ -1,197 +1,180 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=🔥+Fikret+-+Full-Stack+Developer;🔐+Security+Enthusiast;🚀+Building+The+Future" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/42/0a/7d/420a7df7a19b0cfc0316536c2755b841.gif" alt="Coding GIF" />
+  <img height="450" src="https://miro.medium.com/1*OFZEcyF7--PKyAITsoj8uQ.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/@404swc41" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/herrfikret" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:fikretseveriletiism@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/fikret" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fikret-SVR.Fikret-SVR" alt="visitors" />
 </div>
 
 ###
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontSize=60&fontAlign=50&fontAlignY=50&text=ABOUT%20ME&desc=Full-Stack%20Developer%20%7C%20Security%20Researcher" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=ABOUT%20ME&fontSize=70&fontColor=B7410E&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=424779"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fikret-SVR&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fikret-SVR&layout=compact&hide_border=true&theme=radical&langs_count=8" height="180" alt="languages graph" />
+<h4 align="center">Hi, I'm Fikret from Turkiye.</h4>
+
+###
+
+<br clear="both">
+
+<p align="center">🔥 **Fikret** <br>`console.log("The dual perspective you're looking for.");`<br><br>## 🚀 Current Focus<br>- **Operating System Development**: Learning low-level system programming and OS architecture<br>- **AI Antivirus Project**: Building self-learning antivirus with kernel-level integration  <br>- **Real-Time AI Assistant**: Developing always-on-top AI with screen analysis and voice control<br>- **Open-Source Contributions**: Actively contributing to meaningful projects<br>- **System Architecture**: Mastering scalable system design patterns<br><br>## 💻 Tech Stack<br>**Systems & Low-Level**<br>- C/C++ (memory management, performance optimization, system programming)<br>- Reverse Engineering (debugging, assembly analysis, security research)<br><br>**Full-Stack Development**<br>- **Frontend:** HTML5, CSS3, JavaScript<br>- **Backend:** **Perl**, Python, Java, C#, .NET, Node.js, PHP<br>- **Databases:** MySQL, SQLite<br>- **Domain:** POS Systems & Enterprise Solutions<br><br>**Programming & Scripting**<br>- **Python** (backend development, REST APIs, automation, data processing)<br>- **Perl** (backend services, text processing, system automation, legacy systems)<br>- **Bash** (shell scripting, DevOps automation)</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=424779"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikret-SVR&theme=radical&hide_border=true" height="180" alt="streak graph" />
-</div>
+<p align="center">BACKEND</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <h2>🚀 CURRENT FOCUS</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
+###
+
+<p align="center">FRONTEND</p>
+
+###
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br><sub><b>OS Dev</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        <br><sub><b>AI Antivirus</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br><sub><b>AI Assistant</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><sub><b>Open Source</b></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br><sub><b>System Design</b></sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<p align="center">DATABASES & STORAGE</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<p align="center">AI & MACHINE LEARNING</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
+
+###
+
+<p align="center">SYSTEMS & KERNEL DEVELOPMENT</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
+
+<p align="center">TOOLS & PLATFORMS</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
 ###
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=50&text=TECH%20STACK" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&stroke=-&descSize=20&textBg=false&color=424779"  />
 </div>
 
 ###
 
-<div align="center">
-  <h3>🔧 BACKEND DEVELOPMENT</h3>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,dotnet,perl,php,lua,nginx&theme=dark&perline=9" alt="Backend Technologies" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🎨 FRONTEND DEVELOPMENT</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark&perline=6" alt="Frontend Technologies" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🗄️ DATABASES & STORAGE</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=4" alt="Databases" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🤖 AI & MACHINE LEARNING</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,tensorflow,pytorch&theme=dark&perline=4" alt="AI Technologies" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>⚙️ SYSTEMS & KERNEL DEVELOPMENT</h3>
-  <img src="https://skillicons.dev/icons?i=c,bash&theme=dark&perline=4" alt="Systems Technologies" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🛠️ TOOLS & PLATFORMS</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,vscode,visualstudio,wordpress,ps,ai,ae,blender,unity,unreal&theme=dark&perline=8" alt="Tools" />
-</div>
+<img align="left" height="150" src="https://www.ninonline.com/forum/uploads/monthly_2023_12/ezgif.com-optimize.gif.e603ea6296f49230ae16644401725a60.gif"  />
 
 ###
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=50&text=PROJECTS" />
+<br clear="both">
+
+<div align="center">
+  <img height="260" src="https://i.postimg.cc/JzPYsnk3/carbon-1.png"  />
 </div>
 
 ###
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🛡️ AI-Powered Antivirus</h3>
-        <p>Kernel-level self-learning security system</p>
-        <img height="120" src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" alt="Antivirus" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🤖 Real-Time AI Assistant</h3>
-        <p>Screen analysis with voice-controlled prompts</p>
-        <img height="120" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" alt="AI Assistant" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>💻 Custom OS Development</h3>
-        <p>Low-level system programming from scratch</p>
-        <img height="120" src="https://cdn-icons-png.flaticon.com/512/6125/6125000.png" alt="OS Development" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🔐 Security Research</h3>
-        <p>Reverse engineering & vulnerability analysis</p>
-        <img height="120" src="https://cdn-icons-png.flaticon.com/512/565/565822.png" alt="Security" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 WEEKLY DEVELOPMENT BREAKDOWN</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikret-SVR&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🎵 NOW PLAYING</h3>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpjofx7q2qgjw3n3n4n4n4n4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="150" alt="Spotify" style="border-radius: 15px;" />
-</div>
-
-<br>
-
-<div align="center">
-  <h4>⚡ "The dual eyes - what really matters is whether our brain supports our dual perspective."</h4>
-</div>
-
-<br>
-
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
-</div>
-
