@@ -174,7 +174,15 @@
 <br clear="both">
 
 <div align="center">
-  <img height="260" src="https://i.postimg.cc/JzPYsnk3/carbon-1.png"  />
+  <img height="260" src="https://i.ibb.co/WrbcHZN/carbon-1.png"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/4004102004">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4004102004&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
