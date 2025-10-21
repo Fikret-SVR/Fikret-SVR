@@ -54,7 +54,7 @@
 <br clear="both">
 
 <div align="center">
-  <h3>🚀 CURRENT FOCUS</h3>
+  <h2>🚀 CURRENT FOCUS</h2>
 </div>
 
 <div align="center">
@@ -97,35 +97,35 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,dotnet,perl,php,lua,nginx&theme=dark&perline=9" alt="Backend Technologies" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <h3>🎨 FRONTEND DEVELOPMENT</h3>
   <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark&perline=6" alt="Frontend Technologies" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <h3>🗄️ DATABASES & STORAGE</h3>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=4" alt="Databases" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <h3>🤖 AI & MACHINE LEARNING</h3>
   <img src="https://skillicons.dev/icons?i=cpp,tensorflow,pytorch&theme=dark&perline=4" alt="AI Technologies" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <h3>⚙️ SYSTEMS & KERNEL DEVELOPMENT</h3>
   <img src="https://skillicons.dev/icons?i=c,bash&theme=dark&perline=4" alt="Systems Technologies" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <h3>🛠️ TOOLS & PLATFORMS</h3>
@@ -169,27 +169,28 @@
   </table>
 </div>
 
-###
-
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpjofx7q2qgjw3n3n4n4n4n4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="150" alt="Spotify" style="border-radius: 15px; margin: 10px;" />
-</div>
-
-###
+<br>
 
 <div align="center">
   <h3>📊 WEEKLY DEVELOPMENT BREAKDOWN</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikret-SVR&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-###
+<br>
+
+<div align="center">
+  <h3>🎵 NOW PLAYING</h3>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpjofx7q2qgjw3n3n4n4n4n4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="150" alt="Spotify" style="border-radius: 15px;" />
+</div>
+
+<br>
 
 <div align="center">
   <h4>⚡ "The dual eyes - what really matters is whether our brain supports our dual perspective."</h4>
+</div>
+
+<br>
+
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
 </div>
