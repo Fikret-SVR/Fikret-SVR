@@ -29,12 +29,14 @@
 
 ###
 
+<br clear="both">
+
 <p align="center">🔥 **Fikret** <br>`console.log("The dual perspective you're looking for.");`<br><br>## 🚀 Current Focus<br>- **Operating System Development**: Learning low-level system programming and OS architecture<br>- **AI Antivirus Project**: Building self-learning antivirus with kernel-level integration  <br>- **Real-Time AI Assistant**: Developing always-on-top AI with screen analysis and voice control<br>- **Open-Source Contributions**: Actively contributing to meaningful projects<br>- **System Architecture**: Mastering scalable system design patterns<br><br>## 💻 Tech Stack<br>**Systems & Low-Level**<br>- C/C++ (memory management, performance optimization, system programming)<br>- Reverse Engineering (debugging, assembly analysis, security research)<br><br>**Full-Stack Development**<br>- **Frontend:** HTML5, CSS3, JavaScript<br>- **Backend:** **Perl**, Python, Java, C#, .NET, Node.js, PHP<br>- **Databases:** MySQL, SQLite<br>- **Domain:** POS Systems & Enterprise Solutions<br><br>**Programming & Scripting**<br>- **Python** (backend development, REST APIs, automation, data processing)<br>- **Perl** (backend services, text processing, system automation, legacy systems)<br>- **Bash** (shell scripting, DevOps automation)</p>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=424779"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=424779"  />
 </div>
 
 ###
@@ -160,19 +162,19 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=424779"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&stroke=-&descSize=20&textBg=false&color=424779"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="150" src="https://www.ninonline.com/forum/uploads/monthly_2023_12/ezgif.com-optimize.gif.e603ea6296f49230ae16644401725a60.gif"  />
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://i.ibb.co/WrbcHZN/carbon-1.png"  />
+  <img height="260" src="https://i.ibb.co/WrbcHZN/carbon-1.png"  />
 </div>
 
 ###
