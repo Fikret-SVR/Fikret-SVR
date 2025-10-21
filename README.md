@@ -192,5 +192,5 @@
 <br>
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=🚀&desc=Let's+build+the+future+together." />
 </div>
