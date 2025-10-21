@@ -60,8 +60,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
@@ -167,14 +165,31 @@
 
 ###
 
-<img align="left" height="150" src="https://www.ninonline.com/forum/uploads/monthly_2023_12/ezgif.com-optimize.gif.e603ea6296f49230ae16644401725a60.gif"  />
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img height="260" src="https://i.ibb.co/WrbcHZN/carbon-1.png"  />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="200" src="https://i.ibb.co/WrbcHZN/carbon-1.png" alt="Code Stats" />
+        <br>
+        <em><b>Code Analytics</b></em>
+      </td>
+      <td align="center" width="50%">
+        <img height="200" src="https://www.ninonline.com/forum/uploads/monthly_2023_12/ezgif.com-optimize.gif.e603ea6296f49230ae16644401725a60.gif" alt="Coding GIF" />
+        <br>
+        <em><b>In Action</b></em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpjofx7q2qgjw3n3n4n4n4n4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="120" alt="spotify playlist" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Fikret-SVR/count.svg?" alt="Visitor Counter" />
+</div>
