@@ -32,8 +32,9 @@
 
 ###
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontSize=60&fontAlign=50&fontAlignY=50&text=ABOUT%20ME&desc=Full-Stack%20Developer%20%7C%20Security%20Researcher" />
+<div align="center">
+  <h1>🔥 ABOUT ME</h1>
+  <p>Full-Stack Developer | Security Researcher</p>
 </div>
 
 ###
@@ -86,8 +87,8 @@
 
 ###
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=50&text=TECH%20STACK" />
+<div align="center">
+  <h2>🛠️ TECH STACK</h2>
 </div>
 
 ###
@@ -134,8 +135,8 @@
 
 ###
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn&fontSize=40&fontAlign=50&fontAlignY=50&text=PROJECTS" />
+<div align="center">
+  <h2>💼 PROJECTS</h2>
 </div>
 
 ###
@@ -191,6 +192,7 @@
 
 <br>
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
+<div align="center">
+  <h2>🚀 THANKS FOR VISITING!</h2>
+  <p>Let's build the future together.</p>
 </div>
