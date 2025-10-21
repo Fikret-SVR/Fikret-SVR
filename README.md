@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
   </a>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
-  <a href="mailto:fikretseveriletisim@gmail.com" target="_blank">
+  <a href="mailto:fikretseveriletiism@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
   </a>
   <a href="https://linkedin.com/in/fikret" target="_blank">
@@ -192,5 +192,5 @@
 <br>
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=🚀&desc=Let's+build+the+future+together." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlign=50&fontAlignY=50&text=Thanks+For+Visiting!+🚀&desc=Let's+build+the+future+together." />
 </div>
